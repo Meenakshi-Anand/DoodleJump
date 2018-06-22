@@ -3,6 +3,8 @@ align-items: center;
 overflow: hidden;
 background-image:url("../images/body_backdrop.jpg");
 object-fit: cover;
+
+position: relative;
 }
 
 canvas {
@@ -11,7 +13,8 @@ padding-right: 0;
 margin-left: auto;
 margin-right: auto;
 margin-top: 45px;
-display: block;
+position: absolute;
+left: calc(50% - 200px);
 width: 800px;
 border: 5px solid black;
 border-radius: 5px;
@@ -24,4 +27,19 @@ color:brown;
 
 footer{
   background:rgb(231,105,42);
+}
+
+.button{
+  position: absolute;
+  top: 500px;
+  left: calc(50% - 45px);
+  margin:auto;
+  height: 50px;
+  width: 90px;
+  background-color: rgb(245,238,232);
+  color:rgb(160,40,34);
+  border-radius: 54%;
+  border-color: rgb(160,40,34);
+  font-size: 25px;
+  padding: 10px;
 }
