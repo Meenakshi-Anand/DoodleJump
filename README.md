@@ -15,7 +15,7 @@ In Doodle Jump users will be able to
 ## Wireframes
 Doodle Jump will be a single-window game. The user will be able to move up ,left and right with the keyboard's arrows.
 
-![Design Documentation](https://raw.githubusercontent.com/Meenakshi-Anand/Doodle-Jump/master/Doodle_jump_wireframe..jpg)
+![Design Documentation](https://raw.githubusercontent.com/Meenakshi-Anand/DoodleJump/master/wireframe/Doodle_jump_wireframe..jpg)
 
 ## This project will be implemented with the following technologies:
 
