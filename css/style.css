@@ -1,0 +1,27 @@
+body {
+align-items: center;
+overflow: hidden;
+background-image:url("../images/body_backdrop.jpg");
+object-fit: cover;
+}
+
+canvas {
+padding-left: 0;
+padding-right: 0;
+margin-left: auto;
+margin-right: auto;
+margin-top: 45px;
+display: block;
+width: 800px;
+border: 5px solid black;
+border-radius: 5px;
+}
+
+.title{
+text-align: center;
+color:brown;
+}
+
+footer{
+  background:rgb(231,105,42);
+}
