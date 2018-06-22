@@ -2,7 +2,7 @@
 
 ## Game Overview and Logic
 Doodle Jump is a clone of the classic game, in which the character attempts hops up to earn points for each hop . He will be interrupted by enemies and collision with the enemies or falling down will result in losing the game .
-![login page](https://raw.githubusercontent.com/Meenakshi-Anand/Facebook-Clone/master/design_docs/LoginPage.jpg)
+![login page](https://raw.githubusercontent.com/Meenakshi-Anand/DoodleJump/master/images/game-screenshot.png)
 
 ## Functionality & MVP
 In Doodle Jump users will be able to
