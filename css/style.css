@@ -3,7 +3,6 @@ align-items: center;
 overflow: hidden;
 background-image:url("../images/body_backdrop.jpg");
 object-fit: cover;
-
 position: relative;
 }
 
