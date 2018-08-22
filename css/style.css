@@ -55,10 +55,10 @@ footer{
 
 .instructions{
   position: absolute;
-  top:200px;
+  top:100px;
   text-align: center;
   width:250px;
-  background:rgb(214,212,93);
+  /* background:rgb(214,212,93); */
   border:2px solid black;
   color: black;
   border-radius: 5%;
