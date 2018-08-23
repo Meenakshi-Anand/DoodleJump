@@ -55,7 +55,7 @@ footer{
 
 .instructions{
   position: absolute;
-  top:100px;
+  top:75px;
   text-align: center;
   width:250px;
   /* background:rgb(214,212,93); */
@@ -86,4 +86,17 @@ footer{
   position: absolute;
   top:200px;
   left: 70%;
+}
+
+.copyright{
+  display: flex;
+  justify-content: center;
+}
+.copyright a {
+  margin: 10px;
+  font-size: 20px;
+}
+.colsiz{
+  color: black;
+  font-size: 35px;
 }
