@@ -1,9 +1,19 @@
+
 body {
 align-items: center;
 overflow: hidden;
-background-image:url("../images/body_backdrop.jpg");
-object-fit: cover;
+background-image:url("../images/body_background.jpg");
+background-repeat: no-repeat;
+background-size: cover;
 position: relative;
+max-width: 100%;
+
+margin: 0 150px;
+}
+
+.main-body{
+max-width: 100%;
+margin: 0 150px;
 }
 
 canvas {
@@ -45,7 +55,6 @@ footer{
 
 .instructions{
   position: absolute;
-  left: 5%;
   top:200px;
   text-align: center;
   width:250px;
