@@ -51,6 +51,7 @@ footer{
   border-color: rgb(160,40,34);
   font-size: 25px;
   padding: 10px;
+  cursor: pointer;
 }
 
 .instructions{
